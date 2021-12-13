@@ -1,0 +1,19 @@
+URL Repositorio GitHub:
+
+https://github.com/Mork82/Cupones_Charli2
+
+Query Asif: 
+
+select top 1 usuario, fechaAsignacion, contador
+from codigos
+where usuario is not null and usuario = 1
+order by fechaAsignacion, contador desc
+
+SSH: 
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQChY2AmSXUTm8CnCavrX0UVXCKtFyEFBnlKy75aKy65wybXKewXPWg1ttML/a0021wvR0hq
+lXAAy23NdDCq3wo1lt55BXGCogi5zVCmqXiYZ+ruuk3EmZQH3hqK+lJJTLK0Q2LYLU5UfCm2Gc5UGMXbWrj/8RAa3XkWAvTjj/gB61+dJHtAIZRyb
+31V6xRkDyyMy5G6trBIeRJWcJqX9+TN1Cg/YlYAvuZbVrq+xsc0tErX1//AvPmWoPIU4kpq+wyUhYCfgs2/Jb4ZGsTCCX15q2FFxhkRL+RmfxhYiP
+tCNG3K2EXHhct8w79/IwV+hgM+74R2aNaG9CKrHoE0d7xggg4rDAYqukSel2H7IudELmn4I5gyN3hB55hADqvQWH80szntSCKHJlDwDqMnYGkjx9N
+0S0+6djVecqXjKlIzZIYdVJ/tkVryNjc+vJd0sazc+UGscdzGQXhAcG3quXVZUlNWllMSb78lIKQcu3m+ZQ+vI+Q0fiFPAJ28GWas1J8= usersad
+\jcorcole@ALC-95VG1F3
