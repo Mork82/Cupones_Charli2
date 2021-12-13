@@ -64,21 +64,6 @@ namespace cuponesCharli.Back.App
 
                     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                     ////TODO BUSQUEDA DE USUARIO
                    
 
